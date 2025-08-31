@@ -51,3 +51,12 @@ Non-functional requirement diescribes how the system should perform. For example
 Peroformance: The system should be able to load pages within 2 seconds and handle up to 1000 concurrent users.
 Security: Ensure that data encryption, secure login, and protect against common vulnerabilities.
 Usability: The system should have an intuitive UI/UX that makes it easy for users to navigate and perform tasks easier.
+
+## Case Diagrams.
+
+Is the visual representation of interactions btween users and the system.
+- Use Case Diagram: Use case diagram show how different users interact with the systen to achieve a specific goal.
+Beneifits:
+Its provide a clear visual representation of system functionalities.
+Use Case Diagran help in identifying and organizing systen requirements.
+It helps in communication with stakeholders and development team.
