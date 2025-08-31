@@ -36,3 +36,18 @@ Creating models like data flow diagram and entity-relationship diagrams to visua
 Rewviewing the documents requirements with stakesholders to ensure accurancy and completeness.
 Defining clearly the acceptance criteria for each requirement to ensure they meet the expected standards.
 Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+## Types of Requirements
+
+- Functional Requirements: A funtional requirement describe what a system should do. For a example a system should be able to authenticate a user, the user should be able to search listed property, book and also register new users.
+Registration: The system should be able to allow new users to create an account with there personal details.
+User Authentificatuin: The system should be secured from threats.
+Serach Properties: Users should be able to search for properties based on there various criteria such as location, price and availability.
+
+- Non-functional Requirements
+Non-functional requirement diescribes how the system should perform. For example, the system should be secured, fast, reliability.
+
+Peroformance: The system should be able to load pages within 2 seconds and handle up to 1000 concurrent users.
+Security: Ensure that data encryption, secure login, and protect against common vulnerabilities.
+Usability: The system should have an intuitive UI/UX that makes it easy for users to navigate and perform tasks easier.
+
