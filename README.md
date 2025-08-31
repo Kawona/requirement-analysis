@@ -13,7 +13,7 @@ Here i will write the detailed blueprint of the requirement analysis phase for b
 - Since it clarifies what the stakeholders want and need, this helps in getting an estimated cost of the project, the resources need and the estimated time of completion of the project."
 - Requirement analysis ensures that the final product is in-line with the specified requirements which in turns leads to customers satisfaction.
 
-## Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis.
 - Requirement Gathering: 
   Interviewing stakeholders gather detailed needs of the stakeholders needs and expectation.
   Questioner or surveys is a way of collecting from a larger audience.
