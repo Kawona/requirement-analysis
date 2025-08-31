@@ -3,7 +3,7 @@
 The purpose of this repository is to write is to document, analyze and structure requirements.
 Here i will write the detailed blueprint of the requirement analysis phase for booking management system.
 
-## What is Requirement Analysis
+## What is Requirement Analysis?
 
 - This is a critcal phase where the project teams gathers and analyzes and the defines the requiremnts of the software that would be developed.
 
